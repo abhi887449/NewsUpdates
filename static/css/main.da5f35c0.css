@@ -1,0 +1,2 @@
+.animation{-webkit-animation-duration:1s;animation-duration:1s;-webkit-animation-iteration-count:1;animation-iteration-count:1;-webkit-animation-name:animate;animation-name:animate;font-style:italic}@-webkit-keyframes animate{0%{-webkit-transform:rotate(-1turn);transform:rotate(-1turn)}to{-webkit-transform:rotate(0deg);transform:rotate(0deg)}}@keyframes animate{0%{-webkit-transform:rotate(-1turn);transform:rotate(-1turn)}to{-webkit-transform:rotate(0deg);transform:rotate(0deg)}}
+/*# sourceMappingURL=main.da5f35c0.css.map*/
